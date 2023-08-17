@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"title1 ser","desc":"In the action-packed realm of Standoff 2, where every move can tip the balance between victory and defeat, an intricate dance of trade weaves its way through the chaos","photo":"https://iili.io/HDb4ucu.webp"},
+  {"title":"title2 ser","desc":"In the action-packed realm of Standoff 2, where every move can tip the balance between victory and defeat, an intricate dance of trade weaves its way through the chaos","photo":"https://iili.io/HDb4zP9.webp"},
+  {"title":"title3 ser","desc":"Amidst the relentless gunfire and tactical maneuvers, a different kind of transaction takes place in the shadows of Standoff 2","photo":"https://iili.io/HDb4TFe.webp"},
+  {"title":"title4 ser","desc":"Traders, both casual and dedicated, participate in a unique dance of commerce that involves virtual goods as currency and strategic thinking as the driving force","photo":"https://iili.io/HDb4xM7.webp"},
+  {"title":"title5 ser","desc":"This exchange of in-game items has evolved into a subculture within the larger gaming universe, enhancing the gameplay and fostering a sense of community among players.","photo":"https://iili.io/HDb459j.webp"},
+  {"title":"title6 ser","desc":"The marketplace is the heart of Standoff 2's trading ecosystem. Here, players congregate to showcase their wares and negotiate deals.","photo":"https://iili.io/HDb4YwQ.webp"},
+  {"title":"title7 ser","desc":"Skins, weapon enhancements, and rare items become commodities to be exchanged, each with its own perceived value","photo":"https://iili.io/HDb4A8b.webp"},
+  {"title":"title8 ser","desc":"The player's ability to gauge the demand and rarity of items comes into play, making trading a game of perception as much as precision shooting.","photo":"https://iili.io/HDb47Ax.webp"}
    ]
  
 }
